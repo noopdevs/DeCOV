@@ -1,8 +1,6 @@
-# contacttracingprototype
+# prototype
 
-Prototype of a Contact Tracing App made using Flutter and Google's Nearby API. For details, please refer to my medium article here:
-
-https://medium.com/@digankate26/build-a-covid-19-contact-tracing-app-using-flutter-google-nearby-api-c5e6506a13f3
+Prototype of DeCOV: a Contact Tracing App made using Flutter and Google's Nearby API for device detection. The app passively detects nearby users and logs their usernames without revealing personal info in Firebase. Users are then notified if any contact later tests positive, encouraging self-isolation based on assigned risk scores.
 
 New Features Added:-
 1. Contact Time logging
